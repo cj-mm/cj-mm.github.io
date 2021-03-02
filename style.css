@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Kanadaka&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+    background-image: url("https://venngage-wordpress.s3.amazonaws.com/uploads/2018/09/Minimalist-Crumpled-Paper-Simple-Background-Image.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: 'Akaya Kanadaka', cursive;
+}
+
+.name {
+    margin: 15px auto;
+    width: 50%;
+    padding: 10px;
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    width: 80%;
+    margin: auto;
+    padding: 0;
+    text-align: center;
+}
+
+ul li {
+    font-size: 1.3rem;
+    margin: 30px;
+}
+
+
+li h5, li p {
+    margin: 10px;
+}
+
+
+
+
+
+
+
